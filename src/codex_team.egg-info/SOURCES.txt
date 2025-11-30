@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/codex_team/__init__.py
+src/codex_team/codex_bridge.py
+src/codex_team/communication.py
+src/codex_team/config.py
+src/codex_team/orchestrator_app.py
+src/codex_team.egg-info/PKG-INFO
+src/codex_team.egg-info/SOURCES.txt
+src/codex_team.egg-info/dependency_links.txt
+src/codex_team.egg-info/requires.txt
+src/codex_team.egg-info/top_level.txt
+src/codex_team/agents/__init__.py
+src/codex_team/agents/base.py
+src/codex_team/agents/orchestrator.py
+src/codex_team/agents/specialist.py
